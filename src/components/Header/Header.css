@@ -1,0 +1,14 @@
+.logo {
+  width: 100px;
+}
+
+a{
+  color: azure;
+  padding: 15px;
+  font-size: 20px;
+}
+
+a.active,a:hover{
+  color: #AC8B0F;
+  text-decoration: none;
+}
